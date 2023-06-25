@@ -11,3 +11,4 @@ $pip install requests
 $git clone $https://github.com/fahadsyihab06/Tools
 $cd Tools
 $bash Tools.sh
+# subscribe
