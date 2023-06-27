@@ -18,7 +18,7 @@ $pkg install requests
 
 $pip install requests 
 
-$git clone https://github.com/fahadsyihab06/Tools
+$git clone https://github.com/fahadsyihab06/Tools.sh
 
 $cd Tools
 
