@@ -16,7 +16,9 @@ $pip install lolcat
 
 $pkg install requests
 
-$pip install requests$git clone $https://github.com/fahadsyihab06/Tools
+$pip install requests$git clone 
+
+$git clone https://github.com/fahadsyihab06/Tools
 
 $cd Tools
 
